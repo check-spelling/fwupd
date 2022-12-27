@@ -2795,7 +2795,7 @@ msgstr "Tillfälligt misslyckande"
 msgid "True"
 msgstr "Sant"
 
-#. TRANSLATORS: We verified the meatdata against the server
+#. TRANSLATORS: We verified the metadata against the server
 msgid "Trusted metadata"
 msgstr "Betrodda metadata"
 

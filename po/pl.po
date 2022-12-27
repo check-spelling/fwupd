@@ -2706,7 +2706,7 @@ msgstr "Przejściowe niepowodzenie"
 msgid "True"
 msgstr "Prawda"
 
-#. TRANSLATORS: We verified the meatdata against the server
+#. TRANSLATORS: We verified the metadata against the server
 msgid "Trusted metadata"
 msgstr "Zweryfikowane metadane"
 

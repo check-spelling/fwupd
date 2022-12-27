@@ -1656,7 +1656,7 @@ msgstr "Этот инструмент может использовать тол
 msgid "This tool will read and parse the TPM event log from the system firmware."
 msgstr "Этот инструмент читает и обрабатывает журнал событий TPM, который заполняется системными прошивками."
 
-#. TRANSLATORS: We verified the meatdata against the server
+#. TRANSLATORS: We verified the metadata against the server
 msgid "Trusted metadata"
 msgstr "Надёжные метаданные"
 

@@ -2492,7 +2492,7 @@ msgstr "Vorübergehender Fehler"
 msgid "True"
 msgstr "Wahr"
 
-#. TRANSLATORS: We verified the meatdata against the server
+#. TRANSLATORS: We verified the metadata against the server
 msgid "Trusted metadata"
 msgstr "Vertrauenswürdige Metadaten"
 

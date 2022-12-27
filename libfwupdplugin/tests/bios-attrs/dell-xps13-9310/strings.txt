@@ -182,7 +182,7 @@ Absolute
 Clear POWER Event Log
 
 #TRANSLATORS: Description of BIOS setting
-SATA/NVMe Opeartion
+SATA/NVMe Operation
 
 #TRANSLATORS: Description of BIOS setting
 Active Cores

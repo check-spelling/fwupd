@@ -2820,7 +2820,7 @@ msgstr "Přechodný nezdar"
 msgid "True"
 msgstr "Pravda"
 
-#. TRANSLATORS: We verified the meatdata against the server
+#. TRANSLATORS: We verified the metadata against the server
 msgid "Trusted metadata"
 msgstr "Důvěryhodná metadata"
 

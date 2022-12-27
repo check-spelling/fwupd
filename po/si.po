@@ -2304,7 +2304,7 @@ msgstr "මෙම මෙවලම පද්ධති ස්ථිරාංගය
 msgid "Transient failure"
 msgstr "තාවකාලික අසාර්ථකත්වය"
 
-#. TRANSLATORS: We verified the meatdata against the server
+#. TRANSLATORS: We verified the metadata against the server
 msgid "Trusted metadata"
 msgstr "විශ්වාසදායක පාරදත්ත"
 
